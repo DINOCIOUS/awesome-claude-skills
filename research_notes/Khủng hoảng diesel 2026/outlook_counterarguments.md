@@ -165,7 +165,7 @@ Hormuz reopening is the largest swing factor (IEA/Goldman both tie price paths t
 
 ### Inferences
 - Scenario map: (i) Hormuz opens → crude falls sharply (Goldman $80 Q4 base), cracks narrow with a lag; the thesis would be falsified in the "supply returns" sense; (ii) ban → US prices down, global cracks up (Europe worst), US run cuts, higher gasoline: bad for the thesis in the US? it validates the draft's argument that the bottleneck is refining throughput; (iii) cold winter in Europe/Northeast → heating oil and gasoil spikes, larger draws on already thin stocks; mild winter (El Nino) removes the top tail.
-- Expect election-driven policy noise (ban, Jones Act waivers, SPR) to move the crack by $10+ in a day, as on Sept 23.
+- Export-ban headlines can move the crack by $10+ in a day (as on Sept 23, -$12.70), so the crack is policy-sensitive ahead of the November election.
 
 ### Gaps
 - No quantified scenario from EIA for Hormuz reopening beyond price paths; no NOAA 2026-27 official outlook retrieved (only a secondary summary).
