@@ -142,3 +142,53 @@ Chờ Ming xác nhận trước khi sang test 2:
 - [ ] Dàn ý 13–14 phút ở trên ổn chưa?
 - [ ] Chọn hook (phương án 1, 2 hay 3)?
 - [ ] Chọn những phần cắt (Walmart, cầu xăng, kho khí châu Âu, tín dụng tư nhân)?
+
+---
+
+## Quyết định của Ming (cập nhật sau test 1)
+
+- **Hook:** phương án 2.
+  > "If crude is cheaper than it was in the spring, why is diesel at a record? The answer is not in the oil field. It is in the refinery."
+- **Việc cắt bớt:** đang phân tích ảnh hưởng đến mạch nội dung (xem bên dưới). Chưa chốt phần nào cắt.
+
+## Việc cắt có ảnh hưởng đến mạch nội dung không?
+
+**Mạch chính của video (không được cắt):** nghịch lý → bằng chứng nút thắt lọc dầu → vì sao không ai lọc thêm được → phần dư thiếu hụt chuyển sang cầu → phép thử và theo dõi.
+
+### Số từ của các đoạn định cắt (bản tiếng Anh hiện tại)
+
+| Đoạn | Số từ (ước tính) |
+|---|---|
+| Walmart và Kroger | 104 |
+| Cầu xăng | 70 |
+| Đoạn "100 đô la" nối sang chi tiêu | 36 |
+| Tín dụng tư nhân (Renovo, Loparex) | 301 |
+| Giá diesel châu Âu | 33 |
+| Kho khí châu Âu và Qatar | 85 |
+| **Tổng** | **khoảng 630** |
+
+Mục tiêu cắt khoảng 1,200 từ (từ 3,230 xuống khoảng 2,000). Bốn nhóm này mới chiếm khoảng một nửa. Phần còn lại phải đến từ nén Part 2 (Nga/Trung Quốc/châu Âu 157 từ, xuất khẩu Mỹ và lệnh cấm 232 từ), nén các phản biện ở Part 4, và rút đoạn mở đầu.
+
+### Từng đoạn cắt ảnh hưởng thế nào
+
+| Đoạn | Vai trò trong mạch | Cắt có hỏng mạch không? | Cần sửa kèm theo |
+|---|---|---|---|
+| Tín dụng tư nhân | Nhánh phụ: lãi suất cao làm lộ khoản vay yếu. Bài đã tự nói nó **không do diesel gây ra**. | **Không.** Mạch diesel → kinh tế thực → lãi suất vẫn nguyên. | Câu ở Part 4 "những doanh nghiệp và khoản nợ yếu nhất sẽ chịu áp lực trước" mất chỗ dựa. Đổi thành "những doanh nghiệp vay nợ nhiều nhất". |
+| Walmart và Kroger | Bằng chứng "cầu bị áp lực". Sau khi sửa theo nguồn thật, bằng chứng này đã yếu (Walmart vẫn nâng dự báo, giảm giá do hoàn thuế quan). | **Không hỏng, nhưng làm Part 3 mỏng hơn.** Chân "cầu yếu" mất một ví dụ đời thường. | Giữ 1–2 câu về dữ liệu thật thay thế: tâm lý người tiêu dùng thấp kỷ lục, việc làm tháng 9 yếu, doanh số bán lẻ đến tháng 8 vẫn ổn. Câu cuối Part 4 "giá bán tại các chuỗi siêu thị" đổi thành "doanh số bán lẻ và việc làm". |
+| Cầu xăng | Bằng chứng người tiêu dùng "cắt giảm". Nguồn chỉ có một trang tổng hợp, và EIA giải thích bằng xe tiết kiệm nhiên liệu. | **Không.** Cắt còn làm bài trung thực hơn. | Part 4 phản biện thứ hai nhắc "cầu xăng giảm vì xe tiết kiệm nhiên liệu". Câu này tham chiếu đoạn đã cắt, phải bỏ cùng. |
+| Kho khí châu Âu và Qatar | Bối cảnh "mùa cao điểm": diesel cộng sưởi ấm cộng khí đốt. | **Hơi ảnh hưởng.** Mất một lý do "vì sao thời điểm này quan trọng". Đây là thị trường khí, không phải diesel, nên không thuộc mạch chính. | Giữ **một câu** ("Europe's gas storage is at a record low for the date") hoặc để dành cho video riêng. |
+| Giá diesel châu Âu | Minh hoạ châu Âu "còn nặng hơn". | **Không.** Số liệu cũng chưa kiểm chứng được. | Không. |
+
+### Các chỗ tham chiếu ngược cần sửa nếu cắt
+
+1. **Part 4, điểm yếu thứ hai** nhắc vụ Renovo và xu hướng cầu xăng. Cả hai đều ở các đoạn bị cắt, nên người xem sẽ chưa từng nghe. Viết lại chỉ dựa vào thị trường lao động và vận tải hàng hoá (những thứ còn lại).
+2. **Part 4, hai khả năng phía trước:** câu "doanh nghiệp và khoản nợ yếu nhất chịu áp lực trước" cần đổi như bảng trên.
+3. **Part 4, câu kết "những số cần theo dõi":** "giá tại các chuỗi siêu thị" tham chiếu Walmart và Kroger, đổi như bảng trên.
+4. **Part 3, câu kết:** "khoảng cách đang đóng theo cách thứ hai" vẫn đứng được, nhưng vì bằng chứng cầu mỏng hơn, phải giữ lời rào "số liệu đến hết tháng 8 chưa xác nhận điều đó". Đây là chỗ ảnh hưởng thật nhất đến mạch.
+
+### Kết luận về mạch
+
+- **Cắt bốn nhóm trên không làm gãy lập luận chính.** Phần cốt lõi (nghịch lý, crack spread, nút thắt lọc dầu, vì sao không ai lọc thêm được, phép thử) nằm ở Part 1 và Part 2, không đụng đến.
+- **Cái giá thật:** nửa sau của video (Part 3) sẽ ngắn hơn và mang tính "dấu hiệu sớm, chưa phải kết luận" rõ hơn, vì bằng chứng cầu yếu vốn đã yếu sau khi kiểm chứng. Điều này khớp với kết luận trung thực của bản đã sửa.
+- **Rủi ro lớn nhất không phải mạch bị đứt mà là tham chiếu ngược bị bỏ sót** (4 chỗ ở trên). Em sẽ rà các chỗ này khi viết bản rút gọn.
+- **Khuyến nghị:** cắt tín dụng tư nhân, cầu xăng, giá diesel châu Âu, Walmart và Kroger (thay bằng 1–2 câu dữ liệu thật). Giữ một câu về kho khí châu Âu. Để dành tín dụng tư nhân và kho khí cho video phụ nếu Ming muốn.
