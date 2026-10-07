@@ -43,5 +43,14 @@ Skill có cổng xác nhận rõ ràng ở bước 2–3, đúng kiểu "dừng 
 - **Sunset Boulevard (2):** tông hổ phách trên nền xanh lục đậm, gợi năng lượng và dầu mỏ, có tính nhận diện hơn.
 - **Tech Innovation (8):** tương phản cao nhất, hợp khán giả kỹ thuật, nhưng cyan neon dễ mỏi mắt khi xem lâu.
 
-## Chờ Ming
-- [ ] Chọn một theme (1–10), hoặc muốn em tạo theme riêng cho kênh.
+## Quyết định của Ming
+**Tech Innovation (theme 8).**
+
+## Bước 4 của skill: áp theme
+- Đã đọc `themes/tech-innovation.md` và áp màu, font lên ba cảnh mẫu 1920×1080 (`02-theme-factory/applied/`).
+- Đã ghi bộ quy tắc dùng cho video: `02-theme-factory/tech-innovation-video-tokens.md`.
+- **Phát hiện khi áp:** Electric Blue `#0066ff` trên nền `#1e1e1e` chỉ đạt tỉ lệ 3.4, không dùng được cho chữ nhỏ. Skill không cảnh báo điều này. Em giới hạn Electric Blue cho thanh, đường kẻ và cột biểu đồ.
+- **Phát hiện:** Neon Cyan rất nổi nhưng nên dùng tiết kiệm (một chỗ nhấn chính mỗi cảnh).
+
+## Kết luận test 2
+Skill chạy tốt ở cổng chọn theme và bước áp màu, font. Cần bổ sung: ảnh xem trước thực tế (thay file showcase), kiểm tra độ tương phản, và quy tắc riêng cho video (tỉ lệ 16:9, cỡ chữ, vùng an toàn). Chưa test phần "tạo theme riêng".
